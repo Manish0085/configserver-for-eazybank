@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank related local APIs."
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    email: "{cipher}f23fb3ae55919f171877378cf2033a358b9d42bec5955deb01e3959dfecfd654512e9b80dbf10979dd50917f911cdec1"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
